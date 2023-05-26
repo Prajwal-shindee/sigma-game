@@ -49,25 +49,8 @@ const Home = () => {
             p={['4', '16']}
             textAlign={'center'}
           >
-        Game Library: A comprehensive collection of video games that users can browse, search, and purchase.
-
+        
         Online Gaming: The website could host online multiplayer games, allowing users to play with friends or other players from around the world.
-
-        Game Reviews: A section where users can read reviews and ratings of different games written by experts or fellow gamers.
-
-        Gaming News: A section that keeps users up-to-date with the latest gaming news, releases, and events.
-
-        Gaming Community: A platform for gamers to connect, share their experiences, and participate in discussions about their favorite games.
-
-        Game Walkthroughs and Tips: A section where users can find guides, tutorials, and tips for different games to help them progress through the game.
-
-        Virtual Currency: The website could offer a virtual currency system, allowing users to purchase games, virtual items, and other services.
-
-        Mobile Gaming: The website could offer a mobile app version of the platform, allowing users to play games on the go.
-
-        Game Streaming: A feature that allows users to live-stream their gaming sessions and interact with their viewers in real-time.
-
-        E-Sports Tournaments: The website could host online e-sports tournaments, allowing gamers to compete against each other for prizes and bragging rights.
 
           </Text>
         </Stack>
