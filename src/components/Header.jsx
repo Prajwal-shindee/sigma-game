@@ -30,7 +30,7 @@ const{isOpen,onOpen,onClose} = useDisclosure();
     
     <DrawerContent>
         <DrawerCloseButton />
-        <DrawerHeader>PRAJWAL BHAI KI WEBSITE</DrawerHeader>
+        <DrawerHeader>SIGMA-GAME</DrawerHeader>
         <DrawerBody>
             <VStack alignItems={"flex-start"}>
                 <Button onClick={onClose} variant={"ghost"} colorScheme={"orange"}>
