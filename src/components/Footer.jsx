@@ -58,18 +58,18 @@ import {
               Social Media
             </Heading>
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://www.youtube.com/@prajwal_shindee">
-                Youtube
+              <a target={'black'} href="https://twitter.com/Prajwal_shindee">
+                Twitter 
               </a>
             </Button>
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://www.instagram.com/prajwal_shindee/">
-                Instagram
+              <a target={'black'} href="https://github.com/prajwal-shinde">
+                Github 
               </a>
             </Button>
   
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://www.linkedin.com/in/prajwal-shinde-69a877248/">
+              <a target={'black'} href="https://www.linkedin.com/in/prajwal-shindee">
                 LinkeDin
               </a>
             </Button>
