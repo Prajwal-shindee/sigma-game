@@ -63,7 +63,7 @@ import {
               </a>
             </Button>
             <Button variant={'link'} colorScheme={'white'}>
-              <a target={'black'} href="https://github.com/prajwal-shinde">
+              <a target={'black'} href="https://github.com/Prajwal-shindee">
                 Github 
               </a>
             </Button>
